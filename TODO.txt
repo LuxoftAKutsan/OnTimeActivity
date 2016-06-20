@@ -1,0 +1,6 @@
+Make list of static analyzers
+Test each static analyzer on sdl_core
+Find interesting issues in sdl_core code
+Make slides
+Make speach
+
